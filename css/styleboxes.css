@@ -1,0 +1,525 @@
+@charset "UTF-8";
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!BOX PROFILE AREA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+/*THESES HERE CHANGE FOR ALLL PROFILE!*/
+
+#firstFourProfile {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: -10px;
+	
+}
+.styleuserName {
+	color: grey;
+	font-weight:100;
+	font-size: 10px;
+}
+
+.fontuserName {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+}
+
+.openTasksNumber {
+	font-weight: 300;
+
+}
+
+.openTasksWord {
+	color: grey;
+	font-weight:200;
+	font-size: 10px;
+}
+
+
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+/*PROFILE BEGINS!!!*/
+
+
+
+#mattName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxOnePosition {
+	height: 213px;
+	margin-top: 15px;
+
+}
+
+
+.profileBoxOne {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 2px 2px 15px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+	
+}
+
+.profile-matt {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 33px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconMattBox {
+	width: 100%;
+}
+
+.swirlMattLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	font-size: 28px;
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineMatt {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+#cardsAndProfileBox {
+	width: 100%;
+	height: 24px;
+	
+}
+
+.leftBoxCards {
+	padding-top: 4px;
+	margin-left: 22px;
+	
+}
+
+.cardsProfileOne {
+	display: inline-block;
+	
+}
+
+.rightBoxProfile {
+	float: right;
+	padding: 2px 2px 2px 15px;
+	margin-top: -21px;
+	margin-right: 10px;
+	border-left: 1px solid #DCDCDC;
+}
+
+.profileLogoOne {
+	display: inline-block;
+}
+
+.cardsWord {
+	display: inline-block;
+}
+.profileWord {
+	display: inline-block;
+}
+
+
+/*!!!!!!!!!!!!!JOE!!!!!!!!!!!!!!!!!!!!!*/
+
+
+.profileBoxTwo {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	padding-top: 5px;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-joe {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 33x;
+	border-radius: 100%;
+}
+
+#joeName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxTwoPosition {
+	height: 213px;
+	margin-top: 15px;
+
+}
+
+
+.profileBoxOne {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-joe {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconJoeBox {
+	width: 100%;
+}
+
+.swirlJoeLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineJoe {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+
+/*!!!!!!!!!!!!!PROFILE BOX 3!!!!!!!!!!!!!!!!!!!!!*/
+
+
+.profileBoxThree {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	padding-top: 2px;
+	margin: 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-beth {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+
+#bethName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxOnePosition {
+	height: 213px;
+	margin-top: 15px;
+
+}
+
+
+.profileBoxOne {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-beth {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconBethBox {
+	width: 100%;
+}
+
+.swirlBethLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineBeth {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+
+/*!!!!!!!!!!!!!PROFILE BOX 4!!!!!!!!!!!!!!!!!!!!!*/
+
+
+.profileBoxFour {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	padding-top: 2px;
+	margin: 15px 15px 15px 10px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-april {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+.profileBoxOne {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-april {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+
+#aprilName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxFourPosition {
+	height: 213px;
+	margin-top: 23px;
+
+}
+
+
+.profileBoxOne {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 235px !important;
+	display: inline-block;
+}
+
+.profile-april {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconAprilBox {
+	width: 100%;
+}
+
+.swirlAprilLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineApril {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+

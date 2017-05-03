@@ -1,0 +1,510 @@
+@charset "UTF-8";
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!BOX PROFILE BOTTOM AREA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+
+div #secondFourProfile {
+	display: inline-block;
+	margin-left: 30px;
+	max-height: 280px;
+	margin-top: -15px;
+}
+
+/*!!!!!!!!!!!!!PROFILE BOX 5 ANDRE!!!!!!!!!!!!!!!!!!!!!*/
+
+
+
+#andreName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxFivePosition {
+	height: 213px;
+	margin-top: 33px;
+
+}
+
+
+.profileBoxFive {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	padding: 0px;
+	margin: -16px 15px 15px 15px;
+	width: 195px;
+	height: 245px !important;
+	display: inline-block;
+}
+
+.profile-Andre {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 33px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconAndreBox {
+	width: 100%;
+}
+
+.swirlAndreLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineAndre {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+#cardsAndProfileBox {
+	width: 100%;
+	height: 24px;
+	
+}
+
+.leftBoxCards {
+	padding-top: 4px;
+	margin-left: 22px;
+	
+}
+
+.cardsProfileFive {
+	display: inline-block;
+	
+}
+
+.rightBoxProfile {
+	float: right;
+	padding: 2px 2px 2px 15px;
+	margin-top: -21px;
+	margin-right: 10px;
+	border-left: 1px solid #DCDCDC;
+}
+
+.profileLogoOne {
+	display: inline-block;
+}
+
+.cardsWord {
+	display: inline-block;
+}
+.profileWord {
+	display: inline-block;
+}
+
+.profileBoxFive {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 243px;
+	display: inline-block;
+}
+
+.profile-andre {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+.profile-andreDiv {
+	margin-top: -3;
+}
+
+
+
+
+/*!!!!!!!!!!!!!PROFILE BOX TOMMY!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+
+
+#tommyName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxSixPosition {
+	height: 213px;
+	margin-top: 29px;
+
+}
+
+
+.profileBoxSix {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	padding-bottom: 15px;
+	position: relative;
+	margin: -16px 15px 23px 15px;
+	width: 195px;
+	height: 245px !important;
+	overflow: visible;
+	display: inline-block;
+}
+
+.profile-Six {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 33px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconSixBox {
+	width: 100%;
+}
+
+.swirlSixLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineSix {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+#cardsAndProfileBox {
+	width: 100%;
+	height: 24px;
+	
+}
+
+.leftBoxCards {
+	padding-top: 4px;
+	margin-left: 22px;
+	
+}
+
+.cardsProfileSix {
+	display: inline-block;
+	
+}
+
+.rightBoxProfile {
+	float: right;
+	padding: 2px 2px 2px 15px;
+	margin-top: -21px;
+	margin-right: 10px;
+	border-left: 1px solid #DCDCDC;
+}
+
+.profileLogoOne {
+	display: inline-block;
+}
+
+.cardsWord {
+	display: inline-block;
+}
+.profileWord {
+	display: inline-block;
+}
+
+.profileBoxSix {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 230px;
+	display: inline-block;
+}
+
+.profile-tommy {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+
+
+
+
+
+
+/*!!!!!!!!!!!!!PROFILE BOX KEN!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+
+#kenName {
+	text-align: center;
+	margin: -15px 0px 15px 0;
+	
+}
+
+.pencilIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.bellIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+	
+}
+
+.trashIcon {
+	display: inline-block;
+	margin: 0px 15px 0px 15px;
+}
+
+#profileBoxSevenPosition {
+	height: 213px;
+	margin-top: 14px;
+
+}
+
+
+.profileBoxSeven {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	padding: 0px;
+	margin: -16px 15px 15px 15px;
+	width: 195px;
+	height: 245px !important;
+	display: inline-block;
+}
+
+.profile-Seven {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 33px;
+	border-radius: 100%;
+}
+
+.iconsInProfile {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #DCDCDC;
+	padding-bottom: 10px;
+}
+
+
+.UnderIconSixBox {
+	width: 100%;
+}
+
+.swirlSevenLogo {
+	width: 75px;
+	height: 45px;
+	position: relative;
+	margin: 0px 0px 0px 14px;
+	display: inline-block
+	
+}
+
+#openTasks {
+	margin: -50px 20px 0px 0px;
+	float: right;
+
+}
+
+.openTasksNumber {
+	text-align: center;
+	
+}
+
+.openTasksWord {
+	margin-top: -2px;
+}
+
+
+.borderLineSeven {
+	height: 50px;
+	margin-top: 0px;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+#cardsAndProfileBox {
+	width: 100%;
+	height: 24px;
+	
+}
+
+.leftBoxCards {
+	padding-top: 4px;
+	margin-left: 22px;
+	
+}
+
+.cardsProfileSeven {
+	display: inline-block;
+	
+}
+
+.rightBoxProfile {
+	float: right;
+	padding: 2px 2px 2px 15px;
+	margin-top: -21px;
+	margin-right: 10px;
+	border-left: 1px solid #DCDCDC;
+}
+
+.profileLogoOne {
+	display: inline-block;
+}
+
+.cardsWord {
+	display: inline-block;
+}
+.profileWord {
+	display: inline-block;
+}
+
+.profileBoxSeven {
+	background-color: white;
+	border: 1px solid #fff;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 230px;
+	display: inline-block;
+}
+
+
+.profile-ken {
+	display: block;
+	max-width: 48px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+
+
+
+
+
+/*!!!!!!!!!!!!!ADD NEW MEMBER BOX!!!!!!!!!!!!!!!!!!!!!!!!*/
+
+
+
+.profileBoxAdd {
+	background-color: #f6f7fb;
+	border: 1px dashed #DCDCDC;
+	box-shadow: 1px 1px 10px #DCDCDC;
+	margin: 15px 15px 15px 15px;
+	width: 195px;
+	height: 245px !important;
+	float: right;
+	display: inline-block;
+}
+
+.addNewMembers {
+	text-align: center;
+
+}
+
+.the-team {
+	text-align: center;
+	
+}
+
+#userCircle {
+	font-size: 50px;
+	position: relative;
+	margin-top: 48px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+

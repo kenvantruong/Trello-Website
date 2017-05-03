@@ -1,0 +1,240 @@
+@import "http://fonts.googleapis.com/css?family=Raleway";
+/*----------------------------------------------
+CSS settings for HTML div Exact Center
+------------------------------------------------*/
+#abc {
+width:100%;
+height:100%;
+opacity:.95;
+top:0;
+left:0;
+display:none;
+position:fixed;
+background: rgba(98,153,255,.7); 
+overflow:auto
+}
+
+#trelloPopUp {
+	font-family: 'Pacifico', cursive;
+	color: #6299FF;
+	border-bottom: 1px solid #B9B9B9;
+	position: relative;
+	margin-left: 19px;
+}
+
+.fontTrelloPopUp {
+	font-size: 36px;
+}
+
+.welcomeSign {
+	height: 110px;
+	width: 160px;
+	position:relative;
+	padding: 72px 10px 10px 88px;
+	text-align: center;
+	font-family: arial;
+	font-size: 21px;
+	font-weight: 100
+	color: black;
+	margin-right: 10px;
+	background-image: url(../img/avatarpic-B&W.jpg) ;
+	background-image: no-repeat;
+}
+
+
+
+#nameBox {
+	position: relative;
+	margin-bottom: -15px;
+	text-align: center;
+}
+
+#emailBox {
+	position: relative;
+	text-align: center;
+	margin-bottom: -15px;
+}
+
+#tasksBox {
+	position: relative;
+	text-align: center;
+	margin-bottom: -2px;
+}
+
+#buttonPositionClick {
+	position: relative;
+	margin-top: 53px;
+	
+}
+
+
+#close {
+position:relative;
+float: right;
+left: 62px;
+bottom: 19px;
+cursor:pointer
+}
+
+
+div#popupContact {
+position:absolute;
+left:50%;
+top:17%;
+margin-left:-202px;
+font-family:'Raleway',sans-serif
+}
+form {
+max-width:300px;
+min-width:250px;
+position: relative;
+margin-left: 55px;
+margin-top: 25px;
+padding:10px 50px;
+border:2px solid gray;
+border-radius:10px;
+font-family:raleway;
+background-color:#fff
+}
+p {
+margin-top:30px
+}
+h2 {
+background-color:#FEFFED;
+padding:20px 35px;
+margin:-10px -50px;
+text-align:center;
+border-radius:10px 10px 0 0
+}
+hr {
+margin:10px -50px;
+border:0;
+border-top:1px solid #ccc
+}
+input[type=text] {
+width:82%;
+padding:10px;
+margin-top:30px;
+border:1px solid #ccc;
+padding-left:40px;
+font-size:16px;
+font-family:raleway
+}
+#name {
+background-image:url(../images/name.jpg);
+background-repeat:no-repeat;
+background-position:5px 7px;
+}
+#email {
+background-image:url(../images/email.png);
+background-repeat:no-repeat;
+background-position:5px 7px
+}
+textarea {
+background-image:url(../images/msg.png);
+background-repeat:no-repeat;
+background-position:5px 7px;
+width:82%;
+height:95px;
+padding:10px;
+resize:none;
+margin-top:30px;
+border:1px solid #ccc;
+padding-left:40px;
+font-size:16px;
+font-family:raleway;
+margin-bottom:30px
+}
+
+
+
+#submit {
+text-decoration:none;
+width: 161px;
+text-align:center;
+display:block;
+background-color: #6299FF;
+color:#fff;
+border:1px solid grey;
+padding: 0px 0;
+font-size:20px;
+cursor:pointer;
+border-radius:5px
+	
+}
+
+span {
+color:red;
+font-weight:700
+}
+button {
+	position: relative;
+	margin: -47px 15px 0px 0px;
+	display: inline-block;
+	float: right;
+    width:38px;
+    height:38px;
+    line-height:31px;
+    border: 2px solid #4687ff; 
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    text-decoration:none;
+    background: #4687ff;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+	
+}
+
+button:hover {
+    background: #262626;
+}
+
+
+/***Upload profile picture**/
+
+#uploadPP {
+	text-align: center;
+	padding: 15px 15px 6px 15px;
+}
+
+
+#choosePic {
+	padding: 0px 0px 10px 0px;
+	margin-left: 15px;
+}
+
+/*
+
+
+
+
+
+.round-button {
+	position: relative;
+	margin: -46px 17px 0px 0px;
+	display: inline-block;
+	float: right;
+    width:38px;
+    height:38px;
+    line-height:31px;
+    border: 2px solid #4687ff; 
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    text-decoration:none;
+    background: #4687ff;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+}
+
+
+*/
+
+
+
+#tasks {
+}
+
